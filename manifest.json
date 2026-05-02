@@ -1,0 +1,19 @@
+{
+  "id": "co.bennett.better-browser",
+  "name": "Better Browser",
+  "version": "0.1.2",
+  "githubRepo": "b-nnett/codex-plusplus-better-browser",
+  "description": "Improves Codex's browser side panel with more tabs, inline devtools, and browser navigation shortcuts.",
+  "author": {
+    "name": "bennett",
+    "url": "https://github.com/anomalyco/codex-plusplus"
+  },
+  "tags": [
+    "browser",
+    "tabs",
+    "devtools",
+    "shortcuts"
+  ],
+  "scope": "main",
+  "main": "index.js"
+}
