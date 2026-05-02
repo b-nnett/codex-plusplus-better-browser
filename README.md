@@ -1,8 +1,10 @@
 # Better Browser
 
-Better Browser improves the Codex desktop in-app browser side panel. It is a main-process Codex++ tweak that patches Electron `webContents` behavior and selected Codex renderer bundles at runtime.
-
 Built for [Codex++](https://github.com/b-nnett/codex-plusplus), a tweak system for the Codex desktop app.
+
+<img width="2944" height="2196" alt="image" src="https://github.com/user-attachments/assets/afc31248-af43-435f-86fc-2f5ad7c3752c" />
+
+Better Browser improves the Codex desktop in-app browser side panel. It is a main-process Codex++ tweak that patches Electron `webContents` behavior and selected Codex renderer bundles at runtime.
 
 ## Features
 
